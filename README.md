@@ -3,4 +3,4 @@ Garment-centric outpainting (GCO) aims to fine-grained controllable apparel show
 
 ***ours amazing result***
 
-![result](page_image/teaser.png)
+![result](page_images/teaser.png)
