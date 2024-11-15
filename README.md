@@ -1,4 +1,4 @@
-# GCO-Garment-Centric-Outpainting.github.io
+# GCO-Garment-Centric-Outpainting
 Garment-centric outpainting (GCO) aims to fine-grained controllable apparel showcase image generation.
 
 ***ours amazing result***
